@@ -5,4 +5,4 @@ Confeccion de Curriculum con Visual Studio Code, utlizando HTML, CSS y JS.
 programa Argentina Programa 4.0
 Academia Ticmas, "Primeros pasos del Desarrollo Front End"
 
-Conclusion de Proyecto 12-02-2023.
+Conclusion de Proyecto 10/02/2023
