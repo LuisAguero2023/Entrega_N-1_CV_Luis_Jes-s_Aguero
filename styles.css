@@ -16,7 +16,7 @@ html {
 
 /* Section Header */
 .container-header {
-    background-color: #1a0566;
+    background-color: #120585;
     width: 100%;
     top: 0;
     left: 0;
@@ -79,7 +79,7 @@ html {
 
 .inicio .container-inicio {
     padding: 45px 20px 20px 15px;
-    background-color: #200b81;
+    background-color: #17089c;
     max-width: 350px;
     margin: auto;
     text-align: center;
